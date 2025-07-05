@@ -3,7 +3,7 @@
 
 ## Experienced Analyst with over two years in support, system administration, and configuration across organizations like Amazon, Enstoa, Infosys, and Altera Digital Health. Proficient in tools such as Oracle Unifier, Apache Tomcat, and ServiceNow, with strong SQL skills for data analysis and issue resolution. Known for ensuring SLA compliance, streamlining processes, and delivering reliable technical solutions. A quick learner with a strong focus on problem-solving, client satisfaction, and continuous improvement.
 
- # EDUCATION
+ ## EDUCATION
 Masters of Computer Applications M.C.A.
 Jain University
 CGPA : 8.31
