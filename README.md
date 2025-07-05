@@ -1,9 +1,9 @@
 # Product Compliance Senior Associate
 
 
-#Experienced Analyst with over two years in support, system administration, and configuration across organizations like Amazon, Enstoa, Infosys, and Altera Digital Health. Proficient in tools such as Oracle Unifier, Apache Tomcat, and ServiceNow, with strong SQL skills for data analysis and issue resolution. Known for ensuring SLA compliance, streamlining processes, and delivering reliable technical solutions. A quick learner with a strong focus on problem-solving, client satisfaction, and continuous improvement.
+# Experienced Analyst with over two years in support, system administration, and configuration across organizations like Amazon, Enstoa, Infosys, and Altera Digital Health. Proficient in tools such as Oracle Unifier, Apache Tomcat, and ServiceNow, with strong SQL skills for data analysis and issue resolution. Known for ensuring SLA compliance, streamlining processes, and delivering reliable technical solutions. A quick learner with a strong focus on problem-solving, client satisfaction, and continuous improvement.
 
- ## EDUCATION
+ # EDUCATION
 Masters of Computer Applications M.C.A.
 Jain University
 CGPA : 8.31
@@ -27,7 +27,7 @@ Gnana Teja English School
 05/2015 – 05/2016
 Bangalore, India
 
-##PROFESSIONAL EXPERIENCE
+# PROFESSIONAL EXPERIENCE
 Prod Compliance Senior Associate - Amazon
 
 01/2025 – present
@@ -52,14 +52,14 @@ Bangalore,
 
  
 ## SKILLS
-**SQL - Query writing
-HTML and CSS
-Windows Administration
-Apache Tomcat Web Server
-Primavera Unifier
-AWS - Generics
-Power BI - creation of dashboards
-Troubleshooting and Problem Solving**
+**SQL - Query writing,
+HTML and CSS,
+Windows Administration,
+Apache Tomcat Web Server,
+Primavera Unifier,
+AWS - Generics,
+Power BI - creation of dashboards,
+Troubleshooting and Problem Solving.**
 
 ## INTERESTS
 Content making | Video Editing | Travelling |Trekking
@@ -67,4 +67,4 @@ Content making | Video Editing | Travelling |Trekking
 
 ## CERTIFICATES
 Microsoft Certified: Azure Fundamentals (AZ-900)
-Oracle Primavera Unifier Essentials
+| Oracle Primavera Unifier Essentials
